@@ -1,6 +1,7 @@
+
 # A.B Bakery Sales Review Dashboard
 
-![Bakery Dashboard Overview](/0_Resources/Images/bakery_overview.png)
+<img width="850" height="476" alt="Screenshot 2026-09-11 200820" src="https://github.com/user-attachments/assets/b08e7fa0-e47b-4d50-a8bc-0de126992b95" />
 
 ## Introduction
 
